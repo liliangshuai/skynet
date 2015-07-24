@@ -14,7 +14,7 @@ Or you can :
 export PLAT=linux
 make
 ```
-
+test
 For freeBSD , use gmake instead of make .
 
 ## Test

@@ -7,14 +7,14 @@ git clone https://github.com/cloudwu/skynet.git
 cd skynet
 make 'PLATFORM'  # PLATFORM can be linux, macosx, freebsd now
 ```
-
+dev test
 Or you can :
 
 ```
 export PLAT=linux
 make
 ```
-test
+
 For freeBSD , use gmake instead of make .
 
 ## Test
